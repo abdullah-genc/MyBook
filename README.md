@@ -1,2 +1,2 @@
 # MyBook
-Hikayeleşen denemeler
+Hikayeleşen denemeler, mantıksız ve hayalperest ürünler içerir.
